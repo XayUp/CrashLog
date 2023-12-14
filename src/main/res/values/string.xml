@@ -1,0 +1,7 @@
+<resources>
+    <string name="crash_button_copy">Copy</string>
+    <string name="crash_button_exit">Exit</string>
+    <string name="crash_button_restart">Restart</string>
+    <string name="crash_button_copy_message">Send to developer</string>
+    <string name="crash_message">We had a problem with the app</string>
+</resources>
